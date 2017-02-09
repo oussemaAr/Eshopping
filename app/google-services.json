@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1005188485472",
+    "firebase_url": "https://myapplication-d680f.firebaseio.com",
+    "project_id": "myapplication-d680f",
+    "storage_bucket": "myapplication-d680f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005188485472:android:6f8627911971d63e",
+        "android_client_info": {
+          "package_name": "club.google.isetch.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005188485472-m7l1n8mbtg9h73ueei5imknh3pqghlnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoY9POeBBd7plA11qcvK5vqBrt9FYdrTc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005188485472-m7l1n8mbtg9h73ueei5imknh3pqghlnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005188485472:android:f4b7f7355d076fcf",
+        "android_client_info": {
+          "package_name": "isetch.google.club.e_shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005188485472-m7l1n8mbtg9h73ueei5imknh3pqghlnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoY9POeBBd7plA11qcvK5vqBrt9FYdrTc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005188485472-m7l1n8mbtg9h73ueei5imknh3pqghlnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

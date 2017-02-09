@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">E-shopping</string>
+    <string name="desc">ro ex graeci ornatus indoctum, an usu vocent referrentur, cu vix veniam populo appareat. Vim cu facete platonem incorrupte, vis te stet ceteros constituto. At putent disputationi pri. Vero autem mediocrem eum cu, sit te graece impedit, porro mentitum scribentur mel no.</string>
+    <string name="action_add_favourite">add to fav</string>
+    <string name="action_play_next">add to cart</string>
+    <string-array name="array_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+    </string-array>
+</resources>
